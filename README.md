@@ -34,3 +34,8 @@ This is learning reources list from various sources about IT. Feel free to contr
 |Progate|FrontEnd, BackEnd|Paid|https://progate.com/|
 |Skillshare|FrontEnd, BackEnd|Paid|https://www.skillshare.com/|
 |Freecodecamp|DSA, System Design, FrontEnd, BackEnd|Free|https://www.freecodecamp.org/|
+|Sololearn|DSA|Free & Paid|https://www.sololearn.com/|
+|Mimo|FrontEnd, BackEnd, DSA|Free & Paid|https://mimo.org/|
+|Datacamp|Data|Paid|https://www.datacamp.com/|
+|Pluralsight|FrontEnd, BackEnd, Data, AI, DevOps|Paid|https://www.pluralsight.com/|
+|Dataquest|Data|Paid|https://www.dataquest.io/|
