@@ -39,3 +39,18 @@ This is learning reources list from various sources about IT. Feel free to contr
 |Datacamp|Data|Paid|https://www.datacamp.com/|
 |Pluralsight|FrontEnd, BackEnd, Data, AI, DevOps|Paid|https://www.pluralsight.com/|
 |Dataquest|Data|Paid|https://www.dataquest.io/|
+|O'Reilly|FrontEnd, BackEnd, Data, AI, System Design, DSA|Paid|https://www.oreilly.com/|
+|Packt|FrontEnd, BackEnd, Data, AI, System Design, DSA|Paid|https://www.packtpub.com/|
+|Manning|FrontEnd, BackEnd, Data, AI, System Design, DSA|Paid|https://www.manning.com/|
+|Ardan Labs|BackEnd, System Design, DevOps|Paid|https://www.ardanlabs.com/|
+|Zero To Mastery|FrontEnd, BackEnd, DSA, AI, System Design|Paid|https://zerotomastery.io/|
+|Bit Field Consulting(John Arundel)|BackEnd|Paid|https://bitfieldconsulting.com/|
+|NooBee|BackEnd|Paid|https://noobee.id/|
+|Waiting For Code|Data|Free|https://www.waitingforcode.com/|
+|Geeks For Geeks|DSA|Free & Paid|https://www.geeksforgeeks.org/|
+|Just Javascript|FrontEnd|Paid|https://justjavascript.com/|
+|Wesbos|FrontEnd, BackEnd|Paid|https://wesbos.com/|
+|Alex Edwards Golang|BackEnd|Paid|https://lets-go.alexedwards.net/|
+| |BackEnd|Paid|https://lets-go-further.alexedwards.net/|
+|BootDev|BackEnd|Paid|https://www.boot.dev/|
+|Atheros AI|FrontEnd, BackEnd|https://learning.atheros.ai/|
