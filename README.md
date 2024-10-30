@@ -53,4 +53,25 @@ This is learning reources list from various sources about IT. Feel free to contr
 |Alex Edwards Golang|BackEnd|Paid|https://lets-go.alexedwards.net/|
 | |BackEnd|Paid|https://lets-go-further.alexedwards.net/|
 |BootDev|BackEnd|Paid|https://www.boot.dev/|
-|Atheros AI|FrontEnd, BackEnd|https://learning.atheros.ai/|
+|Atheros AI|FrontEnd, BackEnd|Free & Paid|https://learning.atheros.ai/|
+|Total Typescript|FrontEnd|Paid|https://www.greatfrontend.com/|
+|TLX|DSA|Free|https://tlx.toki.id/|
+|Elixir Mentor|BackEnd|Paid|https://elixirmentor.com/|
+|The Pragramatic Studio|BackEnd|Paid|https://pragmaticstudio.com/|
+|Ruby Thalib(AI)|BackEnd, Data, AI|Paid|https://www.rubythalib.ai/|
+|Algobash|DSA|Free|https://www.algobash.com/|
+|Guru99|FrontEnd, BackEnd|Paid|https://www.guru99.com/|
+|Egghead|FrontEnd, BackEnd|Paid|https://egghead.io/|
+|thinkster|FrontEnd, BackEnd|Paid|https://thinkster.io/|
+|Fullstack Python|FrontEnd, BackEnd|Free|https://www.fullstackpython.com/|
+|Test-Driven Development|BackEnd, System Design|Paid|https://mherman.org/|
+|Hack Club Workshops|FrontEnd, BackEnd|https://workshops.hackclub.com/|
+|Codecfrafters|Sytem Design, BackEnd|Paid|https://codecrafters.io/|
+|TechRally|FrontEnd|Free & Paid|https://www.techrally.co/|
+|Flavio Copes|FrontEnd, BackEnd|Free & Paid|https://flaviocopes.com/|
+|Refactoring Guru|BackEnd, System Design|Paid|https://refactoring.guru/|
+|Clean Coders|BackEnd, System Design|Paid|https://cleancoders.com/|
+|Codingame|DSA|Free|https://www.codingame.com/start/|
+|CoderByte|DSA|Free|https://coderbyte.com/|
+|Edabit|DSA|Free|https://edabit.com/|
+|Hackerearth|DSA|Free|https://www.hackerearth.com/|
