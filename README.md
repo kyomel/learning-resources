@@ -75,3 +75,27 @@ This is learning reources list from various sources about IT. Feel free to contr
 |CoderByte|DSA|Free|https://coderbyte.com/|
 |Edabit|DSA|Free|https://edabit.com/|
 |Hackerearth|DSA|Free|https://www.hackerearth.com/|
+|iCodeThis|FrontEnd|Paid|https://icodethis.com/|
+|Front End Mentor|FrontEnd|Free & Paid|https://www.frontendmentor.io/|
+|Coding Studio|DSA, FrontEnd, Data|Paid|https://codingstudio.id/|
+|About Coding|BackEnd|Paid|https://aboutcoding.be/|
+|Niomic|FrontEnd, BackEnd|Paid|https://niomic.id/|
+|Project Euler|DSA|Paid|https://projecteuler.net/|
+|Visualgo|DSA|Free|https://visualgo.net/|
+|SQLBolt|Data|Free|https://sqlbolt.com/|
+|Python Tutorial|BackEnd|Free|https://www.pythontutorial.net/|
+|Linux Survival|System Design|Free|https://linuxsurvival.com/|
+|Class Central|DSA, Data, System Design, FrontEnd, BackEnd|Free & Paid|https://www.classcentral.com/|
+|Pacmann|Data, AI, BackEnd|Paid|https://pacmann.io/|
+|Code Forces|DSA|Free|https://codeforces.com/|
+|Top Coder|DSA|Free|https://www.topcoder.com/|
+|Literasi Kode|FrontEnd, BackEnd|Free & Paid|https://literasikode.com/|
+|Interview Bit|DSA|Free & Paid|https://www.interviewbit.com/|
+|Interview Ready|DSA, System Design|Free & Paid|https://interviewready.io/|
+|Codefinity|FrontEnd, BackEnd|Paid|https://codefinity.com/|
+|NestJS Official Course|BackEnd|Paid|https://courses.nestjs.com/|
+|Fullstack Open|FrontEnd, BackEnd|Free|https://fullstackopen.com/en/|
+|Code With Mosh|FrontEnd, BackEnd|Paid|https://codewithmosh.com/courses|
+|Noval Agung(Golang, Rust, Docker, Kubernetes)|BackEnd, System Design, DevOps|Free & Paid|https://dasarpemrogramangolang.novalagung.com/|
+|Algodaily|DSA, System Design|Paid|https://algodaily.com/|
+|CS Dojo|DSA, BackEnd|Free & Paid|https://www.csdojo.io/|
