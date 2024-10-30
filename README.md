@@ -103,7 +103,7 @@ This is learning reources list from various sources about IT. Feel free to contr
 |Anton Zhiyanov(Golang)|BackEnd, System Design|Free|https://antonz.org/|
 |Kodeco(Mobile)|FrontEnd|Free & Paid|https://www.kodeco.com/|
 |testdrivenio|FrontEnd, BackEnd|Paid|https://testdriven.io/|
-|Mulai Coding ID|DSA, FrontEnd, BackEnd|https://mulaicoding.id/|
+|Mulai Coding ID|DSA, FrontEnd, BackEnd|Paid|https://mulaicoding.id/|
 |Coding Nomads|BackEnd, Data, AI|Paid|https://codingnomads.co/|
 |Brilliant|DSA|Paid|https://brilliant.org/|
 |The Daily Byte|DSA|Paid|https://thedailybyte.dev/|
