@@ -65,7 +65,7 @@ This is learning reources list from various sources about IT. Feel free to contr
 |thinkster|FrontEnd, BackEnd|Paid|https://thinkster.io/|
 |Fullstack Python|FrontEnd, BackEnd|Free|https://www.fullstackpython.com/|
 |Test-Driven Development|BackEnd, System Design|Paid|https://mherman.org/|
-|Hack Club Workshops|FrontEnd, BackEnd|https://workshops.hackclub.com/|
+|Hack Club Workshops|FrontEnd, BackEnd|Free|https://workshops.hackclub.com/|
 |Codecfrafters|Sytem Design, BackEnd|Paid|https://codecrafters.io/|
 |TechRally|FrontEnd|Free & Paid|https://www.techrally.co/|
 |Flavio Copes|FrontEnd, BackEnd|Free & Paid|https://flaviocopes.com/|
