@@ -99,3 +99,17 @@ This is learning reources list from various sources about IT. Feel free to contr
 |Noval Agung(Golang, Rust, Docker, Kubernetes)|BackEnd, System Design, DevOps|Free & Paid|https://dasarpemrogramangolang.novalagung.com/|
 |Algodaily|DSA, System Design|Paid|https://algodaily.com/|
 |CS Dojo|DSA, BackEnd|Free & Paid|https://www.csdojo.io/|
+|Zero To Mastering Software Architecture|System Design, BackEnd|Paid|https://learnsoftwarearchitecture.com/all-courses|
+|Anton Zhiyanov(Golang)|BackEnd, System Design|Free|https://antonz.org/|
+|Kodeco(Mobile)|FrontEnd|Free & Paid|https://www.kodeco.com/|
+|testdrivenio|FrontEnd, BackEnd|Paid|https://testdriven.io/|
+|Mulai Coding ID|DSA, FrontEnd, BackEnd|https://mulaicoding.id/|
+|Coding Nomads|BackEnd, Data, AI|Paid|https://codingnomads.co/|
+|Brilliant|DSA|Paid|https://brilliant.org/|
+|The Daily Byte|DSA|Paid|https://thedailybyte.dev/|
+|Typescript TV|FrontEnd, BackEnd|Free|https://typescript.tv/|
+|Code For Win(C Language)|DSA|Free|https://codeforwin.org/|
+|CPP Reference|DSA|Free|https://en.cppreference.com/w/|
+|C Programming|DSA|Free|https://www.cprogramming.com/|
+|Learn C|DSA|Free|https://www.learn-c.org/|
+|Kaggle|Data, DSA, AI|Free|https://www.kaggle.com/|
