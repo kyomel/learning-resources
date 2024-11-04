@@ -113,3 +113,17 @@ This is learning reources list from various sources about IT. Feel free to contr
 |C Programming|DSA|Free|https://www.cprogramming.com/|
 |Learn C|DSA|Free|https://www.learn-c.org/|
 |Kaggle|Data, DSA, AI|Free|https://www.kaggle.com/|
+|DQLab|Data|Paid|https://dqlab.id/|
+|Mastering Backend|BackEnd, System Design|Paid|https://masteringbackend.com/|
+| |BackEnd, System Design|Paid|https://projects.masteringbackend.com/|
+|KodeKloud|DevOps, BackEnd|Paid|https://kodekloud.com/|
+|Programming One on One|DSA|Free|https://programmingoneonone.com/|
+|DevOpsCube|DevOps|Free|https://devopscube.com/|
+|TechiesCamp|DevOps|Paid|https://techiescamp.com/|
+|The Algorithms|DSA|Free|https://the-algorithms.com/|
+|Net Ninja|FrontEnd, BackEnd|Free & Paid|https://netninja.dev/|
+|Backend Cafe|BackEnd|Free & Paid|https://backend.cafe/|
+|Gum Road|FrontEnd, BackEnd|Free & Paid|https://gumroad.com/|
+|Comprehensive Rust|BackEnd|Free|https://google.github.io/comprehensive-rust/|
+|Effective Rust|BackEnd|Free|https://www.lurklurk.org/effective-rust/|
+|Code With Nathan|FrontEnd, BackEnd|Paid|https://codewithnathan.com/|
