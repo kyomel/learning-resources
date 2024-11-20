@@ -127,3 +127,6 @@ This is learning reources list from various sources about IT. Feel free to contr
 |Comprehensive Rust|BackEnd|Free|https://google.github.io/comprehensive-rust/|
 |Effective Rust|BackEnd|Free|https://www.lurklurk.org/effective-rust/|
 |Code With Nathan|FrontEnd, BackEnd|Paid|https://codewithnathan.com/|
+|Traversy Media|DSA, FrontEnd, BackEnd|Paid|https://www.traversymedia.com/|
+|M Gilang Januar Course|FrontEnd, BackEnd|Paid|https://mgilangjanuar.usekit.co/|
+|Skilvul|FrontEnd, BackEnd|Free & Paid|https://skilvul.com/courses|
