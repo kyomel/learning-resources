@@ -130,3 +130,4 @@ This is learning reources list from various sources about IT. Feel free to contr
 |Traversy Media|DSA, FrontEnd, BackEnd|Paid|https://www.traversymedia.com/|
 |M Gilang Januar Course|FrontEnd, BackEnd|Paid|https://mgilangjanuar.usekit.co/|
 |Skilvul|FrontEnd, BackEnd|Free & Paid|https://skilvul.com/courses|
+|Three Dots Labs(Golang)|BackEnd|Paid|https://threedotslabs.com/|
